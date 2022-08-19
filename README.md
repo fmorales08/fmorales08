@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fmorales08, Fabián Morales and i currently studying Software Engineering at Federico Santa Maria University. 
+- 👋 Hi, I’m @fmorales08, Fabián Morales and i currently studying Software Engineering at Federico Santa Maria University, Santiago de Chile. 
 - 👀 I’m interested in getting my first job as  developer Web :raised_hands:
 - 🌱 I’m currently learning Frontend and Backend technologies :muscle:
 -
